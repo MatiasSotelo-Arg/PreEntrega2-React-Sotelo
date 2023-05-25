@@ -1,0 +1,40 @@
+#root {
+    width: 100vw;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem;
+    border-bottom: 1px solid gray;
+}
+
+.titulo {
+    background-color: cadetblue;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: aliceblue;
+}
+
+.titulo-landing {
+    text-align: center;
+    padding: 1rem;
+}
+
+.contendor-ele-nav {
+    display: flex;
+}
+
+.contendor-ele-nav>button {
+    margin: 0px 1rem;
+    background-color: antiquewhite;
+}
+

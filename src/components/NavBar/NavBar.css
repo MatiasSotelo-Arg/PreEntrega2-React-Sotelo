@@ -1,0 +1,20 @@
+.contenedor-nav {
+    background-color: #0d3b66;
+}
+
+.contendor-ele-nav {
+    align-items: center;
+}
+
+.Option {
+    color: white;
+    margin: 0 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.ActiveOption {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 1rem;
+}

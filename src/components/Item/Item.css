@@ -1,0 +1,29 @@
+.Option-btn {
+    background-color: #f9f9f9;
+    color: #213547;
+    padding: 0.6em 1.2em;
+}
+
+.Option-btn:hover {
+    color: black;
+}
+
+.ItemFooter {
+    padding:  1.2em;
+}
+
+.Controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.Number {
+    padding: 0 1rem;
+}
+
+.CardItem {
+    margin: 1rem;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+}
